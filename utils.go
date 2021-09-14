@@ -1,4 +1,4 @@
-package example
+package cephfs
 
 import (
 	"github.com/beyondstorage/go-storage/v4/services"
